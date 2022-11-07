@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Silva</h1>
-<div align="center"><img src="https://i.giphy.com/media/l1J9MX6rT7e6RrkwU/giphy.webp" width="300px"/><div/>
+<div align="center"><img src="https://media1.giphy.com/media/1TH26KKNDi5bpsL6np/giphy.gif?cid=ecf05e478rekbin6oapqnp8hfi00wlld128gbkcuwcdwwv64&rid=giphy.gif&ct=g" width="300px"/><div/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-david-silva-contreras-aa3091251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan david silva contreras" height="30" width="40" /></a>
