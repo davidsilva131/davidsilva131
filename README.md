@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juan-david-silva-contreras-aa3091251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan david silva contreras" height="30" width="40" /></a>
-<a href="https://davidsilva131.github.io/Portafolio/" target="_blank"> Portafolio<a/>
+<a href="https://juandavidsilva.com/" target="_blank"> Portafolio<a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
