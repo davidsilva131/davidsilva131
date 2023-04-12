@@ -1,5 +1,5 @@
   <h1 align="center">Hi :wave:, I'm David Silva</h1>
-- :seedling: I’m currently learning **ThreeJS and Blender**
+- :seedling: I’m currently learning **ThreeJS and NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
