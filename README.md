@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [juandavidsilva.com](juandavidsilva.com)
 
-- ⚡ Fun fact **Altuve is injured (ಥ _ ಥ)**
+- ⚡ Fun fact **Altuve is back, WS champions again(?) (¬‿¬)**
 
 <br clear="both">
 
