@@ -52,7 +52,6 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/davidsilva131/davidsilva131/output/snake.svg" alt="Snake animation" />
 
 ###
 
