@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsilva131&label=Profile%20views&color=0e75b6&style=flat" alt="davidsilva131" /> </p>
 
-- 🌱 I’m currently learning **NextsJS and ThreeJS**
+- 🌱 I’m currently learning **Astro**
 
 - 👨‍💻 All of my projects are available at [juandavidsilva.com](juandavidsilva.com)
 
-- ⚡ Fun fact **Altuve is back, WS champions again(?) (¬‿¬)**
 
 <br clear="both">
 
