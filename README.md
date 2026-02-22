@@ -4,7 +4,6 @@ Front-end developer with 3 years of experience.
 
 ReactJS | js | Typescript | NextJS | Tailwind | Shadcn | Material UI | Redux | Supabase | Prisma | Git | Azure | RTK
 
-- 👨‍💻 All of my projects are available at [juandavidsilva.com](juandavidsilva.com)
 
 
 ###
