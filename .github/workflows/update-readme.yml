@@ -1,0 +1,22 @@
+name: Update profile README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Regenerate featured repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python .github/scripts/update_readme.py
