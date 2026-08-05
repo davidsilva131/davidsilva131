@@ -9,7 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
-- **[LotoPetsPlay]** — betting site
+- **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** — My portfolio — Astro + Tailwind. Work in progress. · Astro
 <!--NOW:END-->
 
 ## 🛠️ Stack
