@@ -9,6 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
+- **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** · Astro
 <!--NOW:END-->
 
 ## 🛠️ Stack
@@ -24,6 +25,10 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 📌 Featured
 
 <!--FEATURED:START-->
+- **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** · Astro
+- **[gh-dash](https://github.com/davidsilva131/gh-dash)** · HTML
+- **[Mytodo-back](https://github.com/davidsilva131/Mytodo-back)** · Python
+- **[portfolio_ayverson](https://github.com/davidsilva131/portfolio_ayverson)** — portfolio_ayverson · Astro
 <!--FEATURED:END-->
 
 ## 📫 Contact
