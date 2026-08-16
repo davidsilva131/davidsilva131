@@ -9,7 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
-- **[portfolio_ayverson](https://github.com/davidsilva131/portfolio_ayverson)** — Portfolio website built with Astro — project for Ayverson. · Astro
+- **[wraplove](https://github.com/davidsilva131/wraplove)** · CSS
 <!--NOW:END-->
 
 ## 🛠️ Stack
@@ -25,9 +25,9 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 📌 Featured
 
 <!--FEATURED:START-->
-- **[portfolio_ayverson](https://github.com/davidsilva131/portfolio_ayverson)** — Portfolio website built with Astro — project for Ayverson. · Astro
-- **[wraplove](https://github.com/davidsilva131/wraplove)** · Python
+- **[wraplove](https://github.com/davidsilva131/wraplove)** · CSS
 - **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** — My portfolio — Astro + Tailwind. Work in progress. · Astro
+- **[portfolio_ayverson](https://github.com/davidsilva131/portfolio_ayverson)** — Portfolio website built with Astro — project for Ayverson. · Astro
 - **[gh-dash](https://github.com/davidsilva131/gh-dash)** — Personal GitHub dashboard — Astro 7, React 19, Tailwind v4 & shadcn/ui. GitHub GraphQL + REST, deployed on Railway. · HTML
 <!--FEATURED:END-->
 
