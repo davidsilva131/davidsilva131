@@ -9,7 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
-- **[kodigo-fuente-prueba-tecnica](https://github.com/davidsilva131/kodigo-fuente-prueba-tecnica)** — Prueba técnica — código fuente
+- **[trading-monitor-go](https://github.com/davidsilva131/trading-monitor-go)** · Python
 <!--NOW:END-->
 
 ## 🛠️ Stack
@@ -25,10 +25,10 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 📌 Featured
 
 <!--FEATURED:START-->
-- **[kodigo-fuente-prueba-tecnica](https://github.com/davidsilva131/kodigo-fuente-prueba-tecnica)** — Prueba técnica — código fuente
+- **[trading-monitor-go](https://github.com/davidsilva131/trading-monitor-go)** · Python
+- **[kodigo-fuente-prueba-tecnica](https://github.com/davidsilva131/kodigo-fuente-prueba-tecnica)** — Prueba técnica — código fuente · TypeScript
 - **[lawyer-bot-ve](https://github.com/davidsilva131/lawyer-bot-ve)** — Feasibility study for a public legal Q&A bot (WhatsApp/Telegram) answering Venezuelan law questions for Venezuelan lawyers · Python
 - **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** — My portfolio — Astro + Tailwind. Work in progress. · Astro
-- **[wraplove](https://github.com/davidsilva131/wraplove)** · CSS
 <!--FEATURED:END-->
 
 ## 📫 Contact
