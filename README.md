@@ -27,8 +27,8 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 <!--FEATURED:START-->
 - **[ELIMAR](https://github.com/davidsilva131/ELIMAR)**
 - **[skyland](https://github.com/davidsilva131/skyland)** · Go
-- **[kodigo-fuente-prueba-tecnica](https://github.com/davidsilva131/kodigo-fuente-prueba-tecnica)** — Promotions management technical test: React + Vite frontend, Node/Express + PostgreSQL backend, Docker Compose, GitHub Actions CI and Railway deploy · TypeScript
 - **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** — My portfolio — Astro + Tailwind. Work in progress. · Astro
+- **[lawyer-bot-ve](https://github.com/davidsilva131/lawyer-bot-ve)** — Feasibility study for a public legal Q&A bot (WhatsApp/Telegram) answering Venezuelan law questions for Venezuelan lawyers · Python
 <!--FEATURED:END-->
 
 ## 📫 Contact
