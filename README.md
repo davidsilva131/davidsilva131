@@ -9,7 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
-- **[RAGScope](https://github.com/davidsilva131/RAGScope)**
+- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust
 <!--NOW:END-->
 
 ## 🛠️ Stack
@@ -25,10 +25,10 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 📌 Featured
 
 <!--FEATURED:START-->
+- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust
 - **[RAGScope](https://github.com/davidsilva131/RAGScope)**
 - **[ELIMAR](https://github.com/davidsilva131/ELIMAR)**
 - **[skyland](https://github.com/davidsilva131/skyland)** · Go
-- **[astro-portfolio](https://github.com/davidsilva131/astro-portfolio)** — My portfolio — Astro + Tailwind. Work in progress. · Astro
 <!--FEATURED:END-->
 
 ## 📫 Contact
