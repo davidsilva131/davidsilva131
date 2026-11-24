@@ -9,7 +9,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 🔥 Currently building
 
 <!--NOW:START-->
-- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust
+- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust · Rust
 <!--NOW:END-->
 
 ## 🛠️ Stack
@@ -25,7 +25,7 @@ Frontend-first Full Stack Developer with 5+ years building fast, accessible web 
 ## 📌 Featured
 
 <!--FEATURED:START-->
-- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust
+- **[Optimi-ez](https://github.com/davidsilva131/Optimi-ez)** — Optimizador de Windows para juegos, escrito en Rust · Rust
 - **[RAGScope](https://github.com/davidsilva131/RAGScope)**
 - **[ELIMAR](https://github.com/davidsilva131/ELIMAR)**
 - **[skyland](https://github.com/davidsilva131/skyland)** · Go
